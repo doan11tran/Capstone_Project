@@ -1,0 +1,20 @@
+Three Capstone project ideas for Springboard – Intro to Data Science
+By Doan Tran
+Revised 11/8/17
+
+1)	Human Resources Analytics - Why are our best and most experienced employees leaving prematurely?
+https://www.kaggle.com/ludobenistant/hr-analytics/data
+2)	Hospital Charge Data
+Data are being released that show significant variation across the country and within communities in what providers charge for common services. These data include information comparing the charges for the 100 most common inpatient services and 30 common outpatient services.  Providers determine what they will charge for items and services provided to patients and these charges are the amount the providers bills for an item or service.
+https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/97k6-zzx3
+
+3)	Young people Survey 
+This dataset explores the hobbies, interests, and opinions of young Slovakian citizens by categorizing their responses from strongly agree to strongly disagree. It collects their demographics too.
+https://www.kaggle.com/miroslavsabo/young-people-survey
+After discussing the three different datasets with my mentor Max Sop on 11/15/17, we decided that the 1st option (HR Analytics – Why experienced employees are leaving prematurely) because the column metadata is easy to understand and the file size is large enough to work with and ask other questions, such as “Does a medium salary, average satisfaction score, but lack of promotion in the last 5 years indicate that an employee has a higher probability of leaving their job?” or “What is the most important factor that correlates to why an employee leaves their job?”
+
+Other ideas (but without Data sets found):
+Do people who exercise regularly have less visits to their doctor?
+What is the average time span of an opiod prescription?
+What is the median and average time of MDs being late for their appt with their patients?
+What percentage of new patient visits for hand injuries end up needing surgeries? What amount ends up needing just splints or casts?
