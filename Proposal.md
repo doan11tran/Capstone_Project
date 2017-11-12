@@ -5,7 +5,7 @@ output:
 
 # Capstone Proposal
 ### Contributing Factors in Employee Turnover
-### (For a simulated client, based on a simulated dataset in HR Analytics)
+###### (For a simulated client, based on a simulated dataset in HR Analytics)
 ##### By Doan Tran
 
 ***
