@@ -20,7 +20,7 @@ The days of an employee working and staying at one company for their entire care
 #### **The Client**
 *Who is your client and why do they care about this problem? In other words, what will your client do or decide based on your analysis that they wouldn’t have otherwise?*
 
-My client is Jack Bezos, the CEO and Chairman of Aliba-Mazon, an online source for manufacturers who sell at wholesale, a retailer of goods, and a delivery company promising 2 day shipping to its annual suscription member clients. Mr. Bezos' would like to reduce the turnover rate at his company and retain his best employees. He will enable new benefits and incentives and enforce new policies to avoid factors that contribute to higher turnover.
+My client is Jack Bezos, the CEO and Chairman of Aliba-Mazon, an online source for manufacturers who sell at wholesale, an online retailer of goods and products, and a delivery company promising 2 day shipping to its annual suscription member clients. Mr. Bezos' would like to reduce the turnover rate at his company and retain his best employees. He will enable new benefits and incentives and enforce new policies to avoid factors that contribute to higher turnover.
 
 ***
 
